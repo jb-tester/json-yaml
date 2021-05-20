@@ -1,0 +1,21 @@
+abc: ".body{\n\
+     \    background-color: aquamarine;\n\
+     \    font-family: 'Arial Narrow',serif;\n\
+     \    font-size: medium;
+
+     }
+     .button{
+          color-interpolation: linearRGB;
+          color: darkgreen;
+     }"
+bcd: ".title{\n\
+     \    font-weight: bold;\n\
+     \    font-family: bold;
+
+     }\
+     \n
+
+     .title{\n\
+     \    font-family: Andalus, serif;
+
+     }"  
